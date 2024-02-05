@@ -1,0 +1,31 @@
+body {
+    padding: 0;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    width: 550px;
+    height: 400px;
+    padding: 0;
+    background-color: white;
+    border-radius: 10px;
+}
+
+
+li {
+    list-style: none;
+    height: 40px;
+    width: 450px;
+    border: 1px solid #1e2022;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+ul {
+    list-style: none;
+    margin: 0 auto;
+}
